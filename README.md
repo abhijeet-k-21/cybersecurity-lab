@@ -12,17 +12,17 @@ This project simulates ethical hacking in a controlled environment using Kali Li
 
 ## 📸 Screenshots
 
-### Burp Suite Interception
-![Nmap](screenshots/burp.png.png)
-
-### Metasploit Access
-![Nikto](screenshots/metasploit.png.png)
+### Nmap Scan
+![Nmap](screenshots/nmap.png.png)
 
 ### Nikto Scan
-![Metasploit](screenshots/nikto.png.png)
+![Nikto](screenshots/nikto.png.png)
 
-### Nmap Scan
-![Burp](screenshots/nmap.png.png)
+### Metasploit Access
+![Metasploit](screenshots/metasploit.png.png)
+
+### Burp Suite Interception
+![Burp](screenshots/burp3.png.png)
 
 ## ⚠️ Disclaimer
 For educational use only in a lab environment.
